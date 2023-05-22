@@ -1,4 +1,4 @@
-ablauf  
+ablauf frontend   
 LANDING PAGE (max)-> einloggen / anmelden  
 REGISTRATION PAGE (hamza)-> name / (optional) pfp / description / tags / age / gender / search radius  
 MAIN PAGE (max)  
