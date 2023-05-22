@@ -13,4 +13,4 @@ MAIN PAGE (max)
  l r r  
  l r r  
 
-CHATROOM PAGE (hamza) ->   
+CHATROOM PAGE (hamza) ->   siehe zeichnung
